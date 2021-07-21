@@ -4,4 +4,5 @@
     <string name="btn_check">결과 확인</string>
     <string name="text_weight">체중(kg): </string>
     <string name="text_height">신장(cm): </string>
+    <string name="result_title">BMI(체질량지수) 결과 화면</string>
 </resources>
