@@ -58,6 +58,7 @@
             android:inputType="number"/>
     </LinearLayout>
     <Button
+        android:id="@+id/btn_check"
         android:layout_gravity="center_horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
