@@ -9,7 +9,6 @@
     tools:context=".ResultActivity"
     android:padding="20dp">
     <TextView
-        android:id="@+id/text_result1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
@@ -24,13 +23,21 @@
         android:layout_width="250dp"
         android:layout_height="300dp"
         android:src="@drawable/bmi1"
+        android:layout_marginBottom="20dp"
         />
+    <TextView
+        android:id="@+id/text_result1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textColor="#B937CF"
+        android:textStyle="bold"/>
     <TextView
         android:id="@+id/text_result2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="15sp"
-        android:textColor="#000000"
+        android:textColor="#BE39D5"
         android:textStyle="bold"/>
 
 
