@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">project_BMI</string>
+    <string name="Main_Title">BMI(체질량지수) 계산</string>
+    <string name="btn_check">결과 확인</string>
+    <string name="text_weight">체중(kg): </string>
+    <string name="text_height">신장(cm): </string>
 </resources>
